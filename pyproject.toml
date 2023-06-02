@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "zeuscloud-iamspy"
-version = "0.7.0"
+version = "0.8.0"
 description = "ZeusCloud fork of IAMSpy"
 authors = ["Varun Jain <varun@zeuscloud.io>"]
 
